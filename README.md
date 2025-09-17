@@ -31,4 +31,4 @@ def work_life_balance(task: str, mood: str = 'neutral') -> str:
 # Example usage:
 message = work_life_balance("Complete Python project", "happy")
 print(message)
-```s
+```
