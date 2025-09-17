@@ -1,7 +1,8 @@
+```python
 def work_life_balance(task: str, mood: str = 'neutral') -> str:
     """
     A function to balance work and fun.
-    
+
     Args:
     - task (str): The task to execute.
     - mood (str): Your current mood. Default is 'neutral'.
@@ -30,3 +31,11 @@ def work_life_balance(task: str, mood: str = 'neutral') -> str:
 # Example usage:
 message = work_life_balance("Complete Python project", "happy")
 print(message)
+```
+
+
+```markdown
+![Contribuciones en GitHub](https://ghchart.rshah.org/LifeOfAitor)
+```
+
+
